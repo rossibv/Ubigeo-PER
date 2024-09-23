@@ -1,1 +1,1 @@
-Solicitar el archivo "Limite_distritos_actual23.shp" es mayor al 25 mb.
+Solicitar el archivo "Limite_distritos_actual23.shp" es mayor a 25 mb.
